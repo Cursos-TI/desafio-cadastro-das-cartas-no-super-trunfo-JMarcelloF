@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
 //Teste João Marcello
@@ -11,6 +10,7 @@ int main() {
     float pib;
     int pontos_turisticos;
 
+    
     // Cadastro das Cartas:
     printf("\nDigite o código da cidade (Ex: A01): ");
     scanf("%3s", codigo_cidade);
